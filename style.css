@@ -100,13 +100,13 @@ header nav{
 
 }
 .imagenes{
-    columns: 5 240px;
+    columns: 6 240px;
     margin: auto;
 
 }
 .card-imge{
     position: relative;
-    padding: 6px;
+    padding: 7px;
 
 }
 .card-imge img{
